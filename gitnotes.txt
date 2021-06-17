@@ -1,0 +1,15 @@
+#This file is to help NBLB remember steps for successful Git/GitHub execution
+
+<<Steps
+1.) mkdir (name) and cd (name)
+2.) git init
+3.) git config (user.name) git config (email address)
+4.) create files to push from local repo to remote repo
+5.) git add (name) or git add . 
+6.) git commit -m "enter your message here"
+7.) git remote add (alias) (url)
+8.) git push (alias) (branch)
+
+Wherever you see a (), that is to indicate information added based on your data.
+Steps
+
